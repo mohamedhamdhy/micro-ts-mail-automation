@@ -1,7 +1,7 @@
 # MAILSYS_v0.1 — Automated Job Application Email System
 
 > **Bulk email automation with resume attachment, Redis job queue, real-time JARVIS dashboard, and persistent history.**
-![MAILSYS Dashboard](assets/dashboard.png)
+![MAILSYS Dashboard](assets/MAILSYS.png)
 ```
 
 ---

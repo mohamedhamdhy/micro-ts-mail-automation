@@ -1,4 +1,4 @@
-# System Mail Automation Bot
+# Bot Mail Automation 
 
 > **Bulk email automation with resume attachment, Redis job queue, real-time JARVIS dashboard, and persistent history.**
 
